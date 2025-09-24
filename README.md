@@ -3,7 +3,7 @@ PRIVACY POLICY
 
 **
 
-**Last updated September 14, 2025**
+**Last updated September 24, 2025**
 
   
 
