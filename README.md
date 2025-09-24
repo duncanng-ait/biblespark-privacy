@@ -462,7 +462,7 @@ We have implemented appropriate and reasonable technical and organizational secu
 
   
 
-We do not knowingly collect, solicit data from, or market to children under 18 years of age or the equivalent age as specified by law in your jurisdiction, nor do we knowingly sell such personal information. By using the Services, you represent that you are at least 18 or the equivalent age as specified by law in your jurisdiction or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services. If we learn that personal information from users less than 18 years of age or the equivalent age as specified by law in your jurisdiction has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18 or the equivalent age as specified by law in your jurisdiction, please contact us at [duncanng.ait@gmail.com](mailto:duncanng.ait@gmail.com).
+We do not knowingly collect, solicit data from, or market to children under 18 years of age or the equivalent age as specified by law in your jurisdiction, nor do we knowingly sell such personal information. By using the Services, you represent that you are at least 18 or the equivalent age as specified by law in your jurisdiction or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services. If we learn that personal information from users less than 18 years of age or the equivalent age as specified by law in your jurisdiction has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18 or the equivalent age as specified by law in your jurisdiction, please contact us at [biblesparkai@gmail.com](mailto:biblesparkai@gmail.com).
 
   
 
@@ -757,7 +757,7 @@ Depending upon the state where you live, you may also have the following rights:
 
 ### How to Exercise Your Rights
 
-**To exercise these rights, you can contact us by submitting a [data subject access request](https://app.termly.io/notify/cdd283d1-a20e-420f-a408-1529c7137c9e), by emailing us at [duncanng.ait@gmail.com](mailto:duncanng.ait@gmail.com), by visiting [https://www.aitsolutions.ai/contact-us](https://www.aitsolutions.ai/contact-us), or by referring to the contact details at the bottom of this document.
+**To exercise these rights, you can contact us by submitting a [data subject access request](https://app.termly.io/notify/cdd283d1-a20e-420f-a408-1529c7137c9e), by emailing us at [biblesparkai@gmail.com](mailto:biblesparkai@gmail.com), by visiting [https://www.aitsolutions.ai/contact-us](https://www.aitsolutions.ai/contact-us), or by referring to the contact details at the bottom of this document.
 
   
 
@@ -857,7 +857,7 @@ We may update this Privacy Notice from time to time. The updated version will be
 16\. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 ----------------------------------------------
 
-**If you have questions or comments about this notice, you may email us at [duncanng.ait@gmail.com](mailto:duncanng.ait@gmail.com) or contact us by post at:
+**If you have questions or comments about this notice, you may email us at [biblesparkai@gmail.com](mailto:biblesparkai@gmail.com) or contact us by post at:
 
   
 
